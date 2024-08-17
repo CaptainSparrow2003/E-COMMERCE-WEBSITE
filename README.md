@@ -24,8 +24,11 @@ Team Name: bitwizards
 
 ## Members:
 Sebin Thomas
+
 Midhun S M
+
 Sarah Abraham
+
 Nandana S
 
 
